@@ -1,0 +1,17 @@
+{
+    "name": "@mfe/hyTest",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "author": {
+        "name": "",
+        "email": ""
+    },
+    "license": "ISC",
+    "devDependencies": {},
+    "configs": {
+        "compatibleVersion": "0.0.1"
+    },
+    "dependencies": {},
+    "repository": {}
+}

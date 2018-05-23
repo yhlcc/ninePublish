@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "xurui07"
+  },
+  "configs": {
+    "compatibleVersion": "0.0.1"
+  },
+  "dependencies": {
+    "undefined": "^0.1.0"
+  },
+  "description": "six-nine-server-dependencies-controler",
+  "keywords": [
+    "six-nine-server-dependencies-controler"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    {
+      "name": "xurui07",
+      "email": "xurui07@meituan.com"
+    }
+  ],
+  "name": "six-nine-server-dependencies-controler",
+  "version": "0.0.1"
+}

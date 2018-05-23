@@ -1,0 +1,11 @@
+{
+    "builderType": "@mfe/builder-six-react-nine",
+    "publishType": "@mfe/builder-six-react-nine",
+    "appName": "hy",
+    "templateType": "default",
+    "webpackEnabled": "false"
+
+}
+
+
+
